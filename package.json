@@ -1,0 +1,13 @@
+{
+  "name": "react-native-alphabet",
+  "version": "1.0.0",
+  "description": "Alphabet scrubber for React Native. Implement with any list you like.",
+  "main": "index.js",
+  "repository": "git@github.com:grsmvg/react-native-alphabet.git",
+  "author": "Gersom van Ginkel <opensource@gersom.nl>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react-native": "0.52.x"
+  }
+}
